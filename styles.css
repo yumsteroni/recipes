@@ -1,0 +1,41 @@
+#mac {
+    background-color: yellow;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+#brussels {
+    background-color: green;
+    color: rgb(252, 107, 3);
+
+}
+
+.cheesy {
+    color: red;
+
+}
+
+h2 {
+    color: bisque;
+    background-color: black;
+    text-align: center;
+}
+
+#casserole {
+    background-color: orange;
+    color: brown;
+
+}
+
+p {
+    font-size: large;
+}
+
+* {
+    font-family: sans-serif;
+}
